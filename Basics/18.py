@@ -1,0 +1,5 @@
+a = int(67)
+b = int(48)
+c = int(74)
+d = int(a+b+c)
+print(f"average marks of three subjects is: {d/3}")
